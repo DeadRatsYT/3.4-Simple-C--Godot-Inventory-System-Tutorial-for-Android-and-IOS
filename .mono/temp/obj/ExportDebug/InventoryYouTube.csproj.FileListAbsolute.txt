@@ -1,0 +1,9 @@
+E:\Projects\InventoryYouTube\.mono\temp\bin\ExportDebug\InventoryYouTube.dll
+E:\Projects\InventoryYouTube\.mono\temp\bin\ExportDebug\InventoryYouTube.pdb
+E:\Projects\InventoryYouTube\.mono\temp\obj\ExportDebug\InventoryYouTube.csproj.AssemblyReference.cache
+E:\Projects\InventoryYouTube\.mono\temp\obj\ExportDebug\InventoryYouTube.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\InventoryYouTube\.mono\temp\obj\ExportDebug\InventoryYouTube.AssemblyInfoInputs.cache
+E:\Projects\InventoryYouTube\.mono\temp\obj\ExportDebug\InventoryYouTube.AssemblyInfo.cs
+E:\Projects\InventoryYouTube\.mono\temp\obj\ExportDebug\InventoryYouTube.csproj.CoreCompileInputs.cache
+E:\Projects\InventoryYouTube\.mono\temp\obj\ExportDebug\InventoryYouTube.dll
+E:\Projects\InventoryYouTube\.mono\temp\obj\ExportDebug\InventoryYouTube.pdb

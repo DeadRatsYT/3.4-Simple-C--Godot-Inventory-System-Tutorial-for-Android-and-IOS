@@ -1,0 +1,30 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Overlay.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Inventory.cs" type="Script" id=2]
+[ext_resource path="res://InventoryContainer.cs" type="Script" id=3]
+
+[node name="InventoryMain" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="InventoryContainer" type="ScrollContainer" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+scroll_horizontal_enabled = false
+script = ExtResource( 3 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Inventory" type="GridContainer" parent="InventoryContainer"]
+custom_constants/vseparation = 0
+custom_constants/hseparation = 0
+columns = 5
+script = ExtResource( 2 )
+
+[node name="Overlay" parent="." instance=ExtResource( 1 )]
+visible = false
